@@ -1,5 +1,5 @@
 # Nodejs-News-App
-This is a basic wep app for news developed using Nodejs and Expressjs and this is not my original project.
+This is a basic wep app for news developed using Nodejs and Expressjs and this is not my original idea.
 
 This Web App is developed using news API of RaddyTheBrand youtuber. I watched and learned and then tried to copy this news Website.
 Dependencies are :
